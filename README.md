@@ -16,8 +16,8 @@ Work in this branch may include:
 - Researching open-source IoT and AI repositories relevant to agriculture.
 - Sorting projects by category and subcategory, such as water management, soil management, climate monitoring, pest and disease, computer vision, or regenerative practice tracking.
 - Reviewing repository activity, documentation, usability, openness, and farm relevance.
-- Testing whether a project can be run with affordable hardware such as Raspberry Pi, ESP32, older laptops, or phones.[cite:2][cite:8]
-- Adapting projects toward local-first use so farm data can remain on-site rather than depending on cloud platforms.[cite:2][cite:61]
+- Testing whether a project can be run with affordable hardware such as Raspberry Pi, ESP32, older laptops, or phones.
+- Adapting projects toward local-first use so farm data can remain on-site rather than depending on cloud platforms.
 - Improving documentation, setup instructions, and human-computer interaction so growers and apprentices can actually use the tools.
 - Identifying farms willing to help test, adopt, and steward promising projects over time.
 
