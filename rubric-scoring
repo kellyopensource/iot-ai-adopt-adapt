@@ -1,4 +1,10 @@
-Rubric Scoring includes a definitions document and a .csv for scoring purposes.
+# Open Source Agriculture > Iot-ai-adopt-adapt
+
+Open Source Ag 501(c)(3) is a grow-to-donate farm, nonprofit, and IoT Lab that researches affordable, open-source tools for small and mid-sized farms.This branch focuses on IoT and AI projects that can be adopted, adapted, updated, improved, and stewarded so they become more useful in real farm settings.
+
+## What this branch is for
+
+Many open-source agriculture projects are technically promising but remain underused because they were built on one or two working farms, developed as student or hobby projects, or left unfinished when the original maintainer got busy. This branch is a place to research those projects, evaluate their usefulness, and help move strong ideas from prototype or niche tool into practical use for more farms, vineyards, ranches, orchards, and community growing operations.
 
 
 
