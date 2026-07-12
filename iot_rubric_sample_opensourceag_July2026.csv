@@ -1,0 +1,2 @@
+Project Name,Repository URL,Category,Subcategory,Primary Hardware Stack,Primary Software Stack,Latest Commit / Activity (1-5),Repository Depth (1-5),Documentation Quality (1-5),HCI / Usability / Accessibility (1-5),Relevancy to Small Farms (1-5),Relevancy to Mid-Sized Farms (1-5),Level of Open Source vs Proprietary (1-5),Notes
+Example: SmartAg Water Monitor,https://github.com/example/smartag-water,Smart farming,Water management,Arduino + ESP8266,C/C++,2,3,3,3,5,4,5,Classic soil-moisture + pump control; good small-farm fit; needs local logging and bilingual docs.
